@@ -1,0 +1,14 @@
+C:\Users\joaoa\OneDrive\Área de Trabalho\atividade revisaum\bin\Debug\net7.0\atividade revisaum.exe
+C:\Users\joaoa\OneDrive\Área de Trabalho\atividade revisaum\bin\Debug\net7.0\atividade revisaum.deps.json
+C:\Users\joaoa\OneDrive\Área de Trabalho\atividade revisaum\bin\Debug\net7.0\atividade revisaum.runtimeconfig.json
+C:\Users\joaoa\OneDrive\Área de Trabalho\atividade revisaum\bin\Debug\net7.0\atividade revisaum.dll
+C:\Users\joaoa\OneDrive\Área de Trabalho\atividade revisaum\bin\Debug\net7.0\atividade revisaum.pdb
+C:\Users\joaoa\OneDrive\Área de Trabalho\atividade revisaum\obj\Debug\net7.0\atividade revisaum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoa\OneDrive\Área de Trabalho\atividade revisaum\obj\Debug\net7.0\atividade revisaum.AssemblyInfoInputs.cache
+C:\Users\joaoa\OneDrive\Área de Trabalho\atividade revisaum\obj\Debug\net7.0\atividade revisaum.AssemblyInfo.cs
+C:\Users\joaoa\OneDrive\Área de Trabalho\atividade revisaum\obj\Debug\net7.0\atividade revisaum.csproj.CoreCompileInputs.cache
+C:\Users\joaoa\OneDrive\Área de Trabalho\atividade revisaum\obj\Debug\net7.0\atividade revisaum.dll
+C:\Users\joaoa\OneDrive\Área de Trabalho\atividade revisaum\obj\Debug\net7.0\refint\atividade revisaum.dll
+C:\Users\joaoa\OneDrive\Área de Trabalho\atividade revisaum\obj\Debug\net7.0\atividade revisaum.pdb
+C:\Users\joaoa\OneDrive\Área de Trabalho\atividade revisaum\obj\Debug\net7.0\atividade revisaum.genruntimeconfig.cache
+C:\Users\joaoa\OneDrive\Área de Trabalho\atividade revisaum\obj\Debug\net7.0\ref\atividade revisaum.dll
