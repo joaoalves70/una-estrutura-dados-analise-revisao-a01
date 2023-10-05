@@ -1,0 +1,36 @@
+Explique oque é um vetor e cite exemplos:
+
+Um vetor é uma estrutura de dados que armazena uma série de valores do mesmo tipo sob uma única designação.
+Cada valor dentro de um vetor é acessado através de um índice, que começa em 0 para o primeiro elemento.
+
+EXEMPLO:
+
+string[] times = { "Atlético", "Cruzeiro", "América" };
+
+Console.WriteLine("Primeiro time: " + times[0]);
+Console.WriteLine("Segundo nome: " + times[1]);
+Console.WriteLine("Terceiro nome: " + times[2]);
+
+Neste caso, o Atlético ocupa o índice 0 do vetor. O vetor permite que armazene vários dados dentro de uma váriavel, não necessitando a criação de variaveis como timeUm, timeDois, timeTres.
+
+---------------------------------------------------------------------------------------------------------------------------
+
+A Matriz tem o mesmo objetivo do Vetor, porém de forma multidimensioal, possibilitando por exemplo o uso de armazenamento de dados
+em uma tabela bidimensional ou qualquer conjunto de dados que possua uma estrutura tabular.
+
+EXEMPLO:
+
+string[,] matrizDeTimes = {
+    {"Atlético", "Cruzeiro", "América"},
+    {"Corinthians", "Santos", "Flamengo"}
+};
+
+Console.WriteLine("Elemento na primeira linha, primeira coluna: " + matrizDeTimes[0, 0]);
+Console.WriteLine("Elemento na primeira linha, segunda coluna: " + matrizDeTimes[0, 1]);
+Console.WriteLine("Elemento na segunda linha, primeira coluna: " + matrizDeTimes[1, 2]);
+
+Neste caso seriam retornados os times: Atlético, Cruzeiro e Flamengo.
+
+---------------------------------------------------------------------------------------------------------------
+
+Um cubo de dados é uma estrutura tridimensional que armazena informações em forma de grade, usando três índices para representar a posição de cada elemento.
